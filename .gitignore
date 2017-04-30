@@ -1,3 +1,9 @@
+# Other
+*.png
+datasets/
+housing-ml.sublime-project
+housing-ml.sublime-workspace
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
